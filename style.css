@@ -16,6 +16,10 @@ body {
     align-items: center;
 }
 
+.title{
+    color: #C5CAE9;
+}
+
 .game {
     height: 60vmin;
     width: 60vmin;
